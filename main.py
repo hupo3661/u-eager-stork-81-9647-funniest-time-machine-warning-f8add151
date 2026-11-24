@@ -13,7 +13,7 @@ surprise for the last few words.
 import os
 
 LABEL = (
-    "WARNING: This time machine offers no refunds for births "
+    "WARNING: This time machine will not refund births "
     "you prevent. Please vanish responsibly."
 )
 

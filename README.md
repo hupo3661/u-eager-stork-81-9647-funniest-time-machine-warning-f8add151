@@ -8,7 +8,7 @@ The funniest one-line warning label for a time machine — 120 characters or few
 
 ## The label
 
-> WARNING: This time machine offers no refunds for births you prevent. Please vanish responsibly.
+> WARNING: This time machine will not refund births you prevent. Please vanish responsibly.
 
 ## Run it
 
@@ -16,7 +16,7 @@ The funniest one-line warning label for a time machine — 120 characters or few
 python3 main.py
 ```
 
-This prints the label and writes it to `/output/entry.txt` (one line, 95 characters, UTF-8, no trailing newline).
+This prints the label and writes it to `/output/entry.txt` (one line, 91 characters, UTF-8, no trailing newline).
 
 ---
 
